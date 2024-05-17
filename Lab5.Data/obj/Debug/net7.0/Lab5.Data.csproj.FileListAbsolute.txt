@@ -1,0 +1,12 @@
+D:\ООПР\Lab5\Lab5.Data\bin\Debug\net7.0\Lab5.Data.deps.json
+D:\ООПР\Lab5\Lab5.Data\bin\Debug\net7.0\Lab5.Data.dll
+D:\ООПР\Lab5\Lab5.Data\bin\Debug\net7.0\Lab5.Data.pdb
+D:\ООПР\Lab5\Lab5.Data\obj\Debug\net7.0\Lab5.Data.csproj.AssemblyReference.cache
+D:\ООПР\Lab5\Lab5.Data\obj\Debug\net7.0\Lab5.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\ООПР\Lab5\Lab5.Data\obj\Debug\net7.0\Lab5.Data.AssemblyInfoInputs.cache
+D:\ООПР\Lab5\Lab5.Data\obj\Debug\net7.0\Lab5.Data.AssemblyInfo.cs
+D:\ООПР\Lab5\Lab5.Data\obj\Debug\net7.0\Lab5.Data.csproj.CoreCompileInputs.cache
+D:\ООПР\Lab5\Lab5.Data\obj\Debug\net7.0\Lab5.Data.dll
+D:\ООПР\Lab5\Lab5.Data\obj\Debug\net7.0\refint\Lab5.Data.dll
+D:\ООПР\Lab5\Lab5.Data\obj\Debug\net7.0\Lab5.Data.pdb
+D:\ООПР\Lab5\Lab5.Data\obj\Debug\net7.0\ref\Lab5.Data.dll
